@@ -1,13 +1,1 @@
-{
-  "name": "line-video-coach",
-  "version": "1.1.0",
-  "description": "LINE Bot：上傳影片或貼網址，自動分析 + 故事行銷反差開場腳本",
-  "main": "api/line-webhook.js",
-  "type": "module",
-  "scripts": {
-    "dev": "vercel dev"
-  },
-  "dependencies": {
-    "openai": "^4.70.0"
-  }
-}
+{"name": "video-linebot", "version": "1.0.0", "type": "module", "dependencies": {"axios": "^1.6.0"}}
